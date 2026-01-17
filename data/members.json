@@ -50,5 +50,22 @@
     "mouth": "neutral",
     "badge": "Marvel"
   }
+
+
+  {
+    "name": "Aatish Ajay",
+    "github": "aatish1321",
+    "quote": "Copy-and-Paste was programmed by programmers for programmers actually.",
+    "gender": "male",
+    "hairColor": "#000000",
+    "dressColor": "#003b00",
+    "nameColor": "#00ff41",
+    "eyes": "happy",
+    "mouth": "happy",
+    "badge": "Newbie"
+  }
+
+
+
 ]
 
