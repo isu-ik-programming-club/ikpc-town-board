@@ -11,7 +11,7 @@
     "mouth": "neutral",
     "badge": "Maintainer"
   },
-  
+
   {
   "name": "Yousef Attia",
   "github": "yousefayman",
@@ -36,7 +36,19 @@
   "eyes": "sleepy",
   "mouth": "smile",
   "badge": "Newbie"
-  }
+  },
   
+  {
+    "name": "Saifullah Mohammad",
+    "github": "Preacher53",
+    "quote": "Code is like humor. When you have to explain it, it’s bad.",
+    "gender": "male",
+    "hairColor": "#1f2933",
+    "dressColor": "#0f3d2e",
+    "nameColor": "#9fe3c2",
+    "eyes": "sleepy",
+    "mouth": "neutral",
+    "badge": "Marvel"
+  }
 ]
 
