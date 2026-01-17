@@ -10,5 +10,18 @@
     "eyes": "sleepy",
     "mouth": "neutral",
     "badge": "Maintainer"
-  }
+  } , 
+  {
+  "name": "Takunda Maarmba",
+  "github": "maramba-takunda-tapiwa",
+  "quote": "Im here",
+  "gender": "male",
+  "hairColor": "black",
+  "dressColor": "#3b7f7a",
+  "nameColor": "#black",
+  "eyes": "sleepy",
+  "mouth": "thick lips",
+  "badge": "Newbie"
+}
 ]
+
