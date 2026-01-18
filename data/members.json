@@ -13,31 +13,31 @@
   },
 
   {
-  "name": "Yousef Attia",
-  "github": "yousefayman",
-  "quote": "no risk no fun",
-  "gender": "male",
-  "hairColor": "#2D1B00",
-  "dressColor": "#1A1A1A",
-  "nameColor": "#FFFFFF",
-  "eyes": "wide",
-  "mouth": "smile",
-  "badge": "Newbie"
+    "name": "Yousef Attia",
+    "github": "yousefayman",
+    "quote": "no risk no fun",
+    "gender": "male",
+    "hairColor": "#2D1B00",
+    "dressColor": "#1A1A1A",
+    "nameColor": "#FFFFFF",
+    "eyes": "wide",
+    "mouth": "smile",
+    "badge": "Newbie"
   },
-  
+
   {
-  "name": "Takunda Maarmba",
-  "github": "maramba-takunda-tapiwa",
-  "quote": "Im here",
-  "gender": "male",
-  "hairColor": "#2b2b2b",
-  "dressColor": "#7a4fb3",
-  "nameColor": "#1f3a5f",
-  "eyes": "sleepy",
-  "mouth": "smile",
-  "badge": "Newbie"
+    "name": "Takunda Maarmba",
+    "github": "maramba-takunda-tapiwa",
+    "quote": "Im here",
+    "gender": "male",
+    "hairColor": "#2b2b2b",
+    "dressColor": "#7a4fb3",
+    "nameColor": "#1f3a5f",
+    "eyes": "sleepy",
+    "mouth": "smile",
+    "badge": "Newbie"
   },
-  
+
   {
     "name": "Saifullah Mohammad",
     "github": "Preacher53",
@@ -50,9 +50,22 @@
     "mouth": "neutral",
     "badge": "Marvel"
   },
+  
+  {
+    "name": "Aatish Ajay",
+    "github": "aatish1321",
+    "quote": "Copy-and-Paste was programmed by programmers for programmers actually.",
+    "gender": "male",
+    "hairColor": "#000000",
+    "dressColor": "#003b00",
+    "nameColor": "#00ff41",
+    "eyes": "happy",
+    "mouth": "happy",
+    "badge": "Newbie"
+  },
 
   {
-    "name": "Richard Masawi",
+  "name": "Richard Masawi",
   "github": "massiv1",
   "quote": "You live and you learn",
   "gender": "male",
@@ -64,4 +77,3 @@
   "badge": "Newbie"
   }
 ]
-
