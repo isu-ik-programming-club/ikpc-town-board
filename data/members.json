@@ -100,5 +100,17 @@
     "eyes": "happy",
     "mouth": "smile",
     "badge": "Newbie"
-  }
+  },
+  {
+  "name": "Essoufi Adnane",
+  "github": "Adnanessoufi",
+  "quote": "Morocco is the best!!",
+  "gender": "male",
+  "hairColor": "#8b4513",
+  "dressColor": "#3b7f7a",
+  "nameColor": "#2f3328",
+  "eyes": "happy",
+  "mouth": "smile",
+  "badge": "Hollaa"
+}
 ]
