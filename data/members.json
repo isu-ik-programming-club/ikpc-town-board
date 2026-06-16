@@ -112,5 +112,17 @@
   "eyes": "happy",
   "mouth": "smile",
   "badge": "Hollaa"
+},
+{
+  "name": "Fanni Belics",
+  "github": "FanniBelics",
+  "quote": "It's the power of the will that you just can't beat",
+  "gender": "female",
+  "hairColor": "#843114",
+  "dressColor": "#06402B",
+  "nameColor": "#ebdaa7",
+  "eyes": "wink",
+  "mouth": "smile",
+  "badge": "Mother"
 }
 ]
